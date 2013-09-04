@@ -2,7 +2,7 @@
 * Name: jQuery.randomArray
 * Description: returns random positive array of int without excluded elements
 * By: vladimir.shein@axamit.com
-* Version 0.1.1
+* Version 0.1.2
 * Last Modified: 04/09/2013
 *
 * Augments:
