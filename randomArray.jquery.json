@@ -1,7 +1,7 @@
 {
-    "name": "color",
-    "title": "jQuery Color",
-    "description": "jQuery plugin for color manipulation and animation support.",
+    "name": "randomArray",
+    "title": "jQuery randomArray",
+    "description": "jQuery plugin for generating random array with positive int elements.",
     "keywords": [
         "color",
         "animation"
