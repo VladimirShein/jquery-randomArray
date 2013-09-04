@@ -1,0 +1,23 @@
+{
+    "name": "color",
+    "title": "jQuery Color",
+    "description": "jQuery plugin for color manipulation and animation support.",
+    "keywords": [
+        "color",
+        "animation"
+    ],
+    "version": "0.1.0",
+    "author": {
+        "name": "Vladimir Shein"
+    },
+    "maintainers": [],
+    "licenses": [
+        {
+            "type": "GPLv2",
+            "url": "http://www.example.com/licenses/gpl.html"
+        }
+    ],
+    "dependencies": {
+        "jquery": ">=1.5"
+    }
+}
